@@ -11,12 +11,12 @@ var Surnames = ["Smith", "White", "Leonard", "Bloggs", "Caffery", "Duff", "Doe",
 var Titles = ["Mx", "Ms", "Mr", "Mrs", "Miss", "Dr"];
 var Towns = ["Athlone","Dunboyne","Milltown","Delvin","Mullingar"];
 
-var t = "Ms";
-var fn = "Jane";
-var sn = "Doe";
-var ph = "083123456"
-var em = "Jane@gmail.ie";
-var twn = "N981F2";
+var t = "";
+var fn = "";
+var sn = "";
+var ph = ""
+var em = "";
+var twn = "";
 
 /* These 3 methods pick a random value from the indexes to store in the variable*/
 //Gets random firstname and surname for customer using arrays from above
