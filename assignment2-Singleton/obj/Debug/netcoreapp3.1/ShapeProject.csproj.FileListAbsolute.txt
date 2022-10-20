@@ -1,0 +1,13 @@
+/home/thomas/Desktop/ShapeProject/bin/Debug/netcoreapp3.1/ShapeProject
+/home/thomas/Desktop/ShapeProject/bin/Debug/netcoreapp3.1/ShapeProject.deps.json
+/home/thomas/Desktop/ShapeProject/bin/Debug/netcoreapp3.1/ShapeProject.runtimeconfig.json
+/home/thomas/Desktop/ShapeProject/bin/Debug/netcoreapp3.1/ShapeProject.runtimeconfig.dev.json
+/home/thomas/Desktop/ShapeProject/bin/Debug/netcoreapp3.1/ShapeProject.dll
+/home/thomas/Desktop/ShapeProject/bin/Debug/netcoreapp3.1/ShapeProject.pdb
+/home/thomas/Desktop/ShapeProject/obj/Debug/netcoreapp3.1/ShapeProject.csprojAssemblyReference.cache
+/home/thomas/Desktop/ShapeProject/obj/Debug/netcoreapp3.1/ShapeProject.AssemblyInfoInputs.cache
+/home/thomas/Desktop/ShapeProject/obj/Debug/netcoreapp3.1/ShapeProject.AssemblyInfo.cs
+/home/thomas/Desktop/ShapeProject/obj/Debug/netcoreapp3.1/ShapeProject.csproj.CoreCompileInputs.cache
+/home/thomas/Desktop/ShapeProject/obj/Debug/netcoreapp3.1/ShapeProject.dll
+/home/thomas/Desktop/ShapeProject/obj/Debug/netcoreapp3.1/ShapeProject.pdb
+/home/thomas/Desktop/ShapeProject/obj/Debug/netcoreapp3.1/ShapeProject.genruntimeconfig.cache
