@@ -1,0 +1,13 @@
+/home/thomas/Desktop/assignment3/obj/Debug/netcoreapp3.1/assignment3.csprojAssemblyReference.cache
+/home/thomas/Desktop/assignment3/obj/Debug/netcoreapp3.1/assignment3.AssemblyInfoInputs.cache
+/home/thomas/Desktop/assignment3/obj/Debug/netcoreapp3.1/assignment3.AssemblyInfo.cs
+/home/thomas/Desktop/assignment3/obj/Debug/netcoreapp3.1/assignment3.csproj.CoreCompileInputs.cache
+/home/thomas/Desktop/assignment3/bin/Debug/netcoreapp3.1/assignment3
+/home/thomas/Desktop/assignment3/bin/Debug/netcoreapp3.1/assignment3.deps.json
+/home/thomas/Desktop/assignment3/bin/Debug/netcoreapp3.1/assignment3.runtimeconfig.json
+/home/thomas/Desktop/assignment3/bin/Debug/netcoreapp3.1/assignment3.runtimeconfig.dev.json
+/home/thomas/Desktop/assignment3/bin/Debug/netcoreapp3.1/assignment3.dll
+/home/thomas/Desktop/assignment3/bin/Debug/netcoreapp3.1/assignment3.pdb
+/home/thomas/Desktop/assignment3/obj/Debug/netcoreapp3.1/assignment3.dll
+/home/thomas/Desktop/assignment3/obj/Debug/netcoreapp3.1/assignment3.pdb
+/home/thomas/Desktop/assignment3/obj/Debug/netcoreapp3.1/assignment3.genruntimeconfig.cache
