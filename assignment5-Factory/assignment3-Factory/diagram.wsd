@@ -1,0 +1,53 @@
+@startuml Hello
+
+ShapeCaretaker o-- ShapeMemento
+ShapeOriginator ..|> ShapeMemento 
+Program ..|> ShapeOriginator
+Program ..|> ShapeCaretaker
+
+class Program {
+    o : ShapeOriginator
+    c : ShapeCaretaker
+    rnd : Random
+    input : string
+    SavetoFile() : void
+    addShape() : void
+    pickPoints() : string
+}
+
+class ShapeOriginator {
+    -svgLine: string
+    -info: string
+    +set(type:string, num1: int, num2: int, num3: int, num4:int): void
+    +set(type:string, num1: int, num2: int, num3: int) : void
+    +set(type:string, points: string) : void 
+    +storeShapeInMemento() : ShapeMemento
+    +restoreFromMemento() : string
+    +getSvgLine() : string
+    +info() : string
+}
+
+class ShapeCaretaker {
+    +savedShapes: List<ShapeMemento>
+    +undidShapes: List<ShapeMemento>
+    +savedLength: int
+    +undidLength: int
+    +svgCode: string
+    +ShapeCaretaker()
+    +addShape() : void
+    +Undo() : ShapeMemento
+    +Redo() : ShapeMemento
+    +DisplayCanvas() : string
+}
+
+class ShapeMemento {
+    -svgLine: string
+    -info: string
+    +ShapeMemento(svgLine: string, info: string)
+    +getSavedSvgLine() : string
+    +getInfo() : string
+}
+
+
+
+@enduml
