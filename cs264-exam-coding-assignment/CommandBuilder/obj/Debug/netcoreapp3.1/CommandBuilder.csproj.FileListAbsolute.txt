@@ -1,0 +1,13 @@
+/home/thomas/Desktop/FinalExamProject/CommandBuilder/obj/Debug/netcoreapp3.1/CommandBuilder.csprojAssemblyReference.cache
+/home/thomas/Desktop/FinalExamProject/CommandBuilder/obj/Debug/netcoreapp3.1/CommandBuilder.AssemblyInfoInputs.cache
+/home/thomas/Desktop/FinalExamProject/CommandBuilder/obj/Debug/netcoreapp3.1/CommandBuilder.AssemblyInfo.cs
+/home/thomas/Desktop/FinalExamProject/CommandBuilder/obj/Debug/netcoreapp3.1/CommandBuilder.csproj.CoreCompileInputs.cache
+/home/thomas/Desktop/FinalExamProject/CommandBuilder/bin/Debug/netcoreapp3.1/CommandBuilder
+/home/thomas/Desktop/FinalExamProject/CommandBuilder/bin/Debug/netcoreapp3.1/CommandBuilder.deps.json
+/home/thomas/Desktop/FinalExamProject/CommandBuilder/bin/Debug/netcoreapp3.1/CommandBuilder.runtimeconfig.json
+/home/thomas/Desktop/FinalExamProject/CommandBuilder/bin/Debug/netcoreapp3.1/CommandBuilder.runtimeconfig.dev.json
+/home/thomas/Desktop/FinalExamProject/CommandBuilder/bin/Debug/netcoreapp3.1/CommandBuilder.dll
+/home/thomas/Desktop/FinalExamProject/CommandBuilder/bin/Debug/netcoreapp3.1/CommandBuilder.pdb
+/home/thomas/Desktop/FinalExamProject/CommandBuilder/obj/Debug/netcoreapp3.1/CommandBuilder.dll
+/home/thomas/Desktop/FinalExamProject/CommandBuilder/obj/Debug/netcoreapp3.1/CommandBuilder.pdb
+/home/thomas/Desktop/FinalExamProject/CommandBuilder/obj/Debug/netcoreapp3.1/CommandBuilder.genruntimeconfig.cache

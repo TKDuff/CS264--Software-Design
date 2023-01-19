@@ -1,0 +1,53 @@
+@startuml Hello
+
+EmojiFeatureCaretaker o-- EmojiFeatureMemento
+EmojiFeatureOriginator ..|> EmojiFeatureMemento 
+Program ..|> EmojiFeatureOriginator
+Program ..|> EmojiFeatureCaretaker
+
+class Program {
+    o : EmojiFeatureOriginator
+    c : EmojiFeatureCaretaker
+    rnd : Random
+    input : string
+    SavetoFile() : void
+    addEmojiFeature() : void
+    pickPoints() : string
+}
+
+class EmojiFeatureOriginator {
+    -svgLine: string
+    -info: string
+    +set(type:string, num1: int, num2: int, num3: int, num4:int): void
+    +set(type:string, num1: int, num2: int, num3: int) : void
+    +set(type:string, points: string) : void 
+    +storeEmojiFeatureInMemento() : EmojiFeatureMemento
+    +restoreFromMemento() : string
+    +getSvgLine() : string
+    +info() : string
+}
+
+class EmojiFeatureCaretaker {
+    +savedEmojiFeatures: List<EmojiFeatureMemento>
+    +undidEmojiFeatures: List<EmojiFeatureMemento>
+    +savedLength: int
+    +undidLength: int
+    +svgCode: string
+    +EmojiFeatureCaretaker()
+    +addEmojiFeature() : void
+    +Undo() : EmojiFeatureMemento
+    +Redo() : EmojiFeatureMemento
+    +DisplayCanvas() : string
+}
+
+class EmojiFeatureMemento {
+    -svgLine: string
+    -info: string
+    +EmojiFeatureMemento(svgLine: string, info: string)
+    +getSavedSvgLine() : string
+    +getInfo() : string
+}
+
+
+
+@enduml

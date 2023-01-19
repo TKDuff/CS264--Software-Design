@@ -1,0 +1,11 @@
+@startuml
+!include .\\Program.puml
+!include .\\ShapeCaretaker.puml
+!include .\\ShapeFactory.puml
+!include .\\ShapeMemento.puml
+!include .\\ShapeOriginator.puml
+!include .\\Singleton.puml
+!include .\\svgShapes.puml
+!include .\\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.puml
+!include .\\obj\Debug\netcoreapp3.1\assignment3.AssemblyInfo.puml
+@enduml
